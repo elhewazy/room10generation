@@ -1,0 +1,18 @@
+h1, h2, .rocknroll1 {
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+ul {
+    list-style: none;
+
+}
+
+/* 
+.btn:hover{
+    background-color: rgb(120, 189, 231);
+
+} */
+
+#formAlert {
+    display: none;
+}
